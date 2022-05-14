@@ -1,4 +1,4 @@
-**【更新日】2022-04-02**
+**【更新日】2022-05-14**
 
 - [murakami-comment](https://arise-pj.co.jp/news/murakami-comment/)
 - [村上まなつ イベント出演のご報告](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A/)
@@ -85,6 +85,7 @@
 - [村上まなつ 出演のお知らせ-76](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-76/)
 - [村上まなつ 出演のお知らせ-77](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-77/)
 - [村上まなつ 出演のお知らせ-78](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-78/)
+- [村上まなつ 出演のお知らせ-79](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-79/)
 - [村上まなつ 出演のご報告](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a/)
 - [村上まなつ 出演のご報告-2](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-2/)
 - [村上まなつ 出演のご報告-3](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-3/)
@@ -135,6 +136,8 @@
 - [村上まなつ 出演のご報告-48](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-48/)
 - [村上まなつ 出演のご報告-49](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-49/)
 - [村上まなつ 出演のご報告-50](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-50/)
+- [村上まなつ 出演のご報告-51](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-51/)
+- [村上まなつ 出演のご報告-52](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a-52/)
 - [村上まなつ 出演のご報告・お知らせ](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A%E3%83%BB%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/)
 - [村上まなつ 出演のご報告・お知らせ-2](https://arise-pj.co.jp/news/%E6%9D%91%E4%B8%8A%E3%81%BE%E3%81%AA%E3%81%A4%E3%80%80%E5%87%BA%E6%BC%94%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A%E3%83%BB%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-2/)
 - [村上まなつ 出演のご報告・放送のお知らせ](https://arise-pj.co.jp/news/%e6%9d%91%e4%b8%8a%e3%81%be%e3%81%aa%e3%81%a4%e3%80%80%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%94%e5%a0%b1%e5%91%8a%e3%83%bb%e6%94%be%e9%80%81%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)
